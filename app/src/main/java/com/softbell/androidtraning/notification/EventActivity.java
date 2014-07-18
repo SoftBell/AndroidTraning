@@ -65,6 +65,9 @@ public class EventActivity extends ActionBarActivity implements View.OnClickList
         return super.onOptionsItemSelected(item);
     }
 
+
+
+
     @Override
     public void onClick(View view) {
         Bundle b = new Bundle();
